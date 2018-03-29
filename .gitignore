@@ -286,3 +286,11 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/__vm/Upload.vmps.xml
+/__vm/Configuration.Debug.vmps.xml
+/__vm/Compile.vmps.xml
+/__vm/.CFAL2004A-Y_Seeeduino_Bring_Up.vsarduino.h
+/__vm
+/CFAL2004A-Y_Seeeduino_Bring_Up.vcxproj.filters
+/CFAL2004A-Y_Seeeduino_Bring_Up.vcxproj
+/CFAL2004A-Y_Seeeduino_Bring_Up.sln
